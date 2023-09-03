@@ -1,45 +1,45 @@
-In Git:--
+# In Git:--
 <br>
 
-For configration:-
+## For configration:-
 
 git config --global user.name "xyz..."
 
 git config --global user.email "xyz@ =gmail.com"
 
-For Colour UI:-
+## For Colour UI:-
 
 git config --global color.ui auto
 
 
-Now Use VS Code Editor:
+## Now Use VS Code Editor:
 
-Open terminal in, VS Code..
+### Open terminal in, VS Code..
 
 For Check git:- type 
 
 git --version (your git version)
 
-Now, Cloning Git Repo in VS code editor by code:-
+### Now, Cloning Git Repo in VS code editor by code:-
 
 git clone <u> Copy hear ur git repo https address</u>
 
-<B>Now done any update and add in ur git repo by help of the VS Code </b>
+**Now done any update and add in ur git repo by help of the VS Code**
 
-After updation check Status ur Git repo by...
+### After updation check Status ur Git repo by...
 
 git status
 
-For addding updates in git use...
+### For addding updates in git use...
 
-git add <ufile name>
+git add <u>file name</u>
 
-git add . (<u>for all files add</u>)
+git add . (<u> for all files add </u>)
 
-for modify & commit...
+### For modify & commit...
 
 git commit -m "write reason of commitment.."
 
-for push the modification in git repo...
+### For push the modification in git repo...
 
 git push origin main
