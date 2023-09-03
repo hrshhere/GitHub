@@ -1,0 +1,12 @@
+In Git:--
+<br>
+
+For configration:-
+
+git config --global user.name "xyz..."
+
+git config --global user.email "xyz@ =gmail.com"
+
+For Colour UI:-
+
+git config --global color.ui auto
