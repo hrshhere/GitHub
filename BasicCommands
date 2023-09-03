@@ -22,9 +22,9 @@ git --version (your git version)
 
 Now, Cloning Git Repo in VS code editor by code:-
 
-git clone <u Copy hear ur git repo https address>
+git clone <u> Copy hear ur git repo https address</u>
 
-<B Now done any update and add in ur git repo by help of the VS Code >
+<B>Now done any update and add in ur git repo by help of the VS Code </b>
 
 After updation check Status ur Git repo by...
 
@@ -34,7 +34,7 @@ For addding updates in git use...
 
 git add <ufile name>
 
-git add . (<ufor all files add>)
+git add . (<u>for all files add</u>)
 
 for modify & commit...
 
